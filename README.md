@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=cceeee&height=200&section=header&text=JO%20YOUNG-SANG&fontSize=80&fontColor=8885a1&animation=fadeIn)
 <br/><br/>
 <div align="center">
- <h2>🍓 Introduce 🍓</h2><br/>
- 안녕하세요🙌🏻 저는 조영상입니다.<br/>
+ <h2> Introduce </h2><br/>
+ 안녕하세요😊 저는 조영상입니다.<br/>
  백엔드와 프론트 둘 다 관심을 가지고 공부하고 습니다!<br/>
  멋있는 개발자가 되기 위해 열심히 노력할게요 ☺<br/><br/>
  Hello 🙌🏻 I'm Jo YoungSang.<br/>
@@ -36,7 +36,7 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  <br/><br/>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noeulHan&show_icons=true&theme=radical)<br/>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungSangJo&show_icons=true&theme=radical)<br/>
 
  ![header](https://capsule-render.vercel.app/api?type=wave&color=ffc7c8&height=200&section=footer&fontSize=90&fontColor=8885a1)
 </div>
